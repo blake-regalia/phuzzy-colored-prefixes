@@ -1,0 +1,16 @@
+{
+  "name": "phuzzy-colored-prefixes",
+  "version": "0.0.1",
+  "description": "An assorted group of color palettes for phuzzy items",
+  "author": {
+    "name": "Blake Regalia",
+    "email": "blake.regalia@gmail.com"
+  },
+  "main": "lib/main/phuzzy-colored-prefixes.js",
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "color-scheme": "^1.0.0"
+  }
+}
